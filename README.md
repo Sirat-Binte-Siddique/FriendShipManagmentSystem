@@ -1,0 +1,3 @@
+# FriendShipManagmentSystem
+
+### java project 
